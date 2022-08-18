@@ -1,0 +1,23 @@
+{
+    "header": {
+        "hello": "Weather Global",
+        "description" : "Language",
+        "language": "English"
+    },
+    "body":{
+        "countries": "Countries",
+        "none": "None",
+        "select": "Select the country",
+        "country": "Country",
+        "description": "Weather condition",
+        "tem-min": "Minimum temperature",
+        "tem-max": "Maximum temperature",
+        "humidity": "Humidity",
+        "wind": "Wind"
+    },
+    "countries": {
+        "london": "London",
+        "singapore": "Singapore",
+        "toronto": "Toronto"
+    }
+}

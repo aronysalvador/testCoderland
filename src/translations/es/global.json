@@ -1,0 +1,23 @@
+{
+    "header": {
+        "hello": "Clima Global",
+        "description" : "Idioma",
+        "language": "Español"
+    },
+    "body":{
+        "countries": "Paises",
+        "none": "Ninguno",
+        "select": "Selecciona el pais",
+        "country": "País",
+        "description": "Condición del Clima",
+        "tem-min": "Temperatura Mínima",
+        "tem-max": "Temperatura Máxima",
+        "humidity": "Humedad",
+        "wind": "Viento"
+    },
+    "countries": {
+        "london": "Londres",
+        "singapore": "Singapur",
+        "toronto": "Toronto"
+    }
+}

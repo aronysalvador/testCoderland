@@ -3,7 +3,7 @@ Technical Test for Coderland
 Develop By: Arony Salvador Noguera Systems Engineer
 Date: 17/08/2022
 Contact: salvadorarony@gmail.com / +56937721849
-Url Deploy: 
+Url Deploy: https://aquamarine-heliotrope-462772.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Redux
